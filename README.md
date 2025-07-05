@@ -32,3 +32,6 @@ A simple Bash script to display essential Linux server performance statistics in
 - Linux system
 - Bash shell
 - Tools: top, free, df, ps, awk, grep, uptime
+
+## 
+https://roadmap.sh/projects/server-stats
